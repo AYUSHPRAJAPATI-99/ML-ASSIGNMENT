@@ -1,10 +1,16 @@
   # *This is our Assignment No. 1.*
 
 
-# Ecommerce Sales Prediction using Simple Linear Regression
+## Collaborators
+Aryan Yadav 281
+Ayush Kumar Prajapati 282
+Neeraj Gupta 295
+Rahul Yadav 317
+
+# Ecommerce Sales Revenue Prediction 
 
 ## Objective
-The objective of this assignment is to perform an end-to-end analysis of an ecommerce sales dataset and apply Simple Linear Regression to study the relationship between product quantity and sales.
+The objective of this assignment is to perform an end-to-end analysis of an ecommerce sales dataset and apply Linear Regression models to study the relationship between product quantity and sales.
 
 This project is intended as a baseline regression analysis with emphasis on model understanding, interpretation, and evaluation.
 
